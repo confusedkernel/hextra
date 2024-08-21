@@ -1,9 +1,10 @@
 ---
-title: Deploy Site
+title: 部署站点
 prev: /docs/guide/shortcodes
 next: /docs/advanced
 ---
-Hugo 生成静态站点，允许多种托管方式，你可以自由选择  
+
+Hugo 生成静态站点，允许多种托管方式，你可以自由选择
 本页将给出部署你的 Hextra 站点的方法
 
 <!--more-->
